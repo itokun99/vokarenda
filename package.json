@@ -8,7 +8,6 @@
     "url": "git+https://github.com/itokun99/vokarenda",
     "type": "git"
   },
-  "private": false,
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
